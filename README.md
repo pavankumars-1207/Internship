@@ -36,3 +36,7 @@ Discover open ports in the local network using Nmap and analyze exposure.
 - `scan_results.txt` (or redacted copy)
 - `scan_results.html` (if created via xsltproc)
 - `README.md`
+
+Author 
+    Pavan Kumar S
+    
