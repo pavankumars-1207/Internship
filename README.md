@@ -30,10 +30,9 @@ Discover open ports in the local network using Nmap and analyze exposure.
 
 ## Tools used
 - Nmap (scan output: `scan_results.txt`)
-- (Optional) Wireshark for packet capture: `scan_capture.pcapng`
+  
 ## Files to submit
-- `scan_results.txt` (or redacted copy)
-- `scan_results.html` (if created via xsltproc)
+- `scan_results.txt`
 - `README.md`
 
 Author 
